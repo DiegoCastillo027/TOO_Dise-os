@@ -1,0 +1,33 @@
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csprojAssemblyReference.cache
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CoreCompileInputs.cache
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+C:\Users\Castillo\source\repos\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csprojAssemblyReference.cache
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CoreCompileInputs.cache
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CopyComplete
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csprojAssemblyReference.cache
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CopyComplete
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+E:\Nueva carpeta\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CoreCompileInputs.cache
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.CopyComplete
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.dll
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.EN\obj\Debug\ClinicaSanFrancisco.RegistroMedico.EN.csproj.AssemblyReference.cache

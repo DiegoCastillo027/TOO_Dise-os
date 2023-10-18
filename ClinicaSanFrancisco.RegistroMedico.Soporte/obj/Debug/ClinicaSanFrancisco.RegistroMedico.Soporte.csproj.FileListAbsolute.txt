@@ -1,0 +1,12 @@
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.csprojAssemblyReference.cache
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.csproj.CoreCompileInputs.cache
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+C:\Users\50378\Documents\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\bin\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.csproj.CoreCompileInputs.cache
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.dll
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.pdb
+D:\ClinicaSanFrancisco.RegistroMedico\ClinicaSanFrancisco.RegistroMedico.Soporte\obj\Debug\ClinicaSanFrancisco.RegistroMedico.Soporte.csproj.AssemblyReference.cache

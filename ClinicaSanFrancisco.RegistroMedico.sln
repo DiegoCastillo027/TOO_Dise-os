@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaSanFrancisco.RegistroMedico.EN", "ClinicaSanFrancisco.RegistroMedico.EN\ClinicaSanFrancisco.RegistroMedico.EN.csproj", "{CC7568F5-3E23-4317-BE29-C449EB3A3153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaSanFrancisco.RegistroMedico.DAL", "ClinicaSanFrancisco.RegistroMedico.DAL\ClinicaSanFrancisco.RegistroMedico.DAL.csproj", "{3B5D01F6-E03D-4E81-AC6A-66FD477FCB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaSanFrancisco.RegistroMedico.BL", "ClinicaSanFrancisco.RegistroMedico.BL\ClinicaSanFrancisco.RegistroMedico.BL.csproj", "{5BEC5381-62CA-4128-8546-158A8933062E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaSanFrancisco.RegistroMedico.UI.WF", "ClinicaSanFrancisco.RegistroMedico.UI.WF\ClinicaSanFrancisco.RegistroMedico.UI.WF.csproj", "{A01054F2-0194-4A96-8CAB-44935D3D3970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaSanFrancisco.RegistroMedico.Soporte", "ClinicaSanFrancisco.RegistroMedico.Soporte\ClinicaSanFrancisco.RegistroMedico.Soporte.csproj", "{1A0D0A15-143F-4C1B-AA3D-D0F01838DE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7568F5-3E23-4317-BE29-C449EB3A3153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7568F5-3E23-4317-BE29-C449EB3A3153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7568F5-3E23-4317-BE29-C449EB3A3153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7568F5-3E23-4317-BE29-C449EB3A3153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5D01F6-E03D-4E81-AC6A-66FD477FCB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5D01F6-E03D-4E81-AC6A-66FD477FCB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5D01F6-E03D-4E81-AC6A-66FD477FCB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5D01F6-E03D-4E81-AC6A-66FD477FCB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEC5381-62CA-4128-8546-158A8933062E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEC5381-62CA-4128-8546-158A8933062E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEC5381-62CA-4128-8546-158A8933062E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEC5381-62CA-4128-8546-158A8933062E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01054F2-0194-4A96-8CAB-44935D3D3970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01054F2-0194-4A96-8CAB-44935D3D3970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01054F2-0194-4A96-8CAB-44935D3D3970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01054F2-0194-4A96-8CAB-44935D3D3970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0D0A15-143F-4C1B-AA3D-D0F01838DE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0D0A15-143F-4C1B-AA3D-D0F01838DE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0D0A15-143F-4C1B-AA3D-D0F01838DE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0D0A15-143F-4C1B-AA3D-D0F01838DE64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD8E1A1-4380-4277-B16C-FC047CD6BC79}
+	EndGlobalSection
+EndGlobal
